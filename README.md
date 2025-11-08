@@ -69,10 +69,10 @@ This repo is part of my personal learning path, but if you find it helpful:
 <p align="center">
   <b>Connect with Me 🔗</b><br><br>
   <a href="https://github.com/Noor-Fatima-24">
-    <!-- <img src="https://img.shields.io/badge/GitHub-Noor--Fatima--24-black?style=for-the-badge&logo=github" alt="GitHub"/> -->
+    <img src="https://img.shields.io/badge/GitHub-Noor--Fatima--24-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/noor-fatima-cybernetic-coder-tech">
-    <!-- <img src="https://img.shields.io/badge/LinkedIn-Noor%20Fatima-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> -->
+    <img src="https://img.shields.io/badge/LinkedIn-Noor%20Fatima-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
